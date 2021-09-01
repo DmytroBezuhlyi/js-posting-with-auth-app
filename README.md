@@ -1,0 +1,1 @@
+# js-posts-with-auth-app
